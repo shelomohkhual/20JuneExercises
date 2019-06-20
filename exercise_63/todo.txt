@@ -1,0 +1,12 @@
+[X] Walk the cat.
+[X] Go to the gym.
+[X] Buy groceries for the week.
+[ ] Call Jeanne.
+[ ] Finish my coding exercise.
+[ ] Book hotel for vacation.
+[X] Pay electric bill.
+[ ] Call post office.
+[ ] Read "Lord of the Rings".
+[ ] Book eye appointment for new glasses.
+[ ] Learn how to pick locks.
+[ ] Find good recipe for dinner.
