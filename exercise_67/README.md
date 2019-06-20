@@ -25,7 +25,7 @@ nokogiri (1.6.6.2, 1.6.5, 1.6.0)
 ```
 *Figure 1*.  Checking to see which, if any, versions of Nokogiri are installed.
 
-Before we begin with this exercise we need to have the Nokogiri gem installed.  It should be installed on the Dev Bootcamp workstations.  If we're working on a personal machine, we can check to see which, if any, versions of Nokogiri are installed (see Figure 1).  If any versions of Nokogiri are installed, they will be listed under the local gems heading.
+Before we begin with this exercise we need to have the Nokogiri gem installed.  We can check to see which, if any, versions of Nokogiri are installed (see Figure 1).  If any versions of Nokogiri are installed, they will be listed under the local gems heading.
 
 ```
 $ gem install nokogiri

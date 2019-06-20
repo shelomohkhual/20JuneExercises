@@ -11,7 +11,7 @@ Extracting information from a website is known as [web scraping][].  In this exe
 We'll rely on the [Nokogiri][] gem to convert the HTML into Ruby objects.  Nokogiri is likely an unfamiliar tool, and one of the technical challenges we'll face is learning how to use it.
 
 
-Before we begin the exercise the Nokogiri gem must be installed.  It should be installed on the Dev Bootcamp workstations.  If we're working on a personal machine, we can check to see which, if any, versions of Nokogiri are installed (see Figure 1).  If any versions of Nokogiri are installed, they will be listed under the local gems heading.
+Before we begin the exercise the Nokogiri gem must be installed.  We can check to see which, if any, versions of Nokogiri are installed (see Figure 1).  If any versions of Nokogiri are installed, they will be listed under the local gems heading.
 
 ```
 $ gem list nokogiri
